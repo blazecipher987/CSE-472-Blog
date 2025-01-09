@@ -1,4 +1,8 @@
-## Overview of the Blog entitled, "Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks"
+## Review of the Blog entitled, "Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks"
+
+Reviewer: Soumya Swagata Biswas (1905093)\
+Team Members: Sushmita Paul (1905086), Apurbo Banik Turjo (1905096)\
+Blog Link of this review: https://github.com/Mohaimin41/CSE_471_ML_Asm
 
 The blog does a pretty good job of turning this technical study into a more readable format while summarizing the key takeaways of the paper. It really pinpointed how important it would be to employ **Robust Prompt Optimisation** to patch vulnerabilities within large language models. While the blog emphasized RPO's performance and practical usages, there are still some places that can benefit from longer explanations.
 
